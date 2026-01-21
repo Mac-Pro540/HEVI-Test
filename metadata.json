@@ -1,0 +1,32 @@
+{
+  "name": "HEVI",
+  "symbol": "HEVI",
+  "description": "The official utility token of the HEVI Ecosystem project.",
+  "image": "https://raw.githubusercontent.com/Mac-Pro540/TokenTest/main/logo512.jpg",
+  "external_url": "https://mytoken.io",
+  "attributes": [
+    {
+      "trait_type": "Category",
+      "value": "Utility"
+    },
+    {
+      "trait_type": "Network",
+      "value": "Solana Devnet"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/Mac-Pro540/TokenTest/main/logo512.jpg",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "6Ri7svgMKeC13wDU4mZ5pbdmGyBn3i21AKQya2NoxSTz",
+        "share": 100
+      }
+    ]
+  }
+}
