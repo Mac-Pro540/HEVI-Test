@@ -2,7 +2,7 @@
   "name": "USDT_Devnet",
   "symbol": "USDT",
   "description": "A description of the token",
-  "image": "https://raw.githubusercontent.com/Mac-Pro540/HEVI-Test/refs/heads/main/Delete%20USDT_SOLANA_devnet_512*.png",
+  "image": "https://raw.githubusercontent.com/Mac-Pro540/HEVI-Test/refs/heads/main/USDT_SOLANA_devnet_512.png",
   "external_url": "https://example.com",
   "attributes": [
     {
@@ -13,7 +13,7 @@
   "properties": {
     "files": [
       {
-        "uri": "https://raw.githubusercontent.com/Mac-Pro540/HEVI-Test/refs/heads/main/Delete%20USDT_SOLANA_devnet_512*.png",
+        "uri": "https://raw.githubusercontent.com/Mac-Pro540/HEVI-Test/refs/heads/main/USDT_SOLANA_devnet_512.png",
         "type": "image/png"
       }
     ]
